@@ -3,7 +3,7 @@ const umur =[23];
 const hargaBarang = [12000,];
 let status = ""
 
-function belanja (){
+
     for (let i = 0; i <hargaBarang.length; i++) {
     
         if (hargaBarang[i] >=30000){
@@ -19,5 +19,3 @@ function belanja (){
         total belanja = ${hargaBarang}
         status= ${status}`)
 
-}
- belanja()
