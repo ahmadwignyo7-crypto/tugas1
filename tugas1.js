@@ -13,9 +13,5 @@ let status = ""
         }
 
     } 
-    console.log(`
-        nama = ${pelaggan}
-        umur = ${umur}
-        total belanja = ${hargaBarang}
-        status= ${status}`)
+    console.log(`nama = ${pelaggan}\numur = ${umur}\ntotal belanja = ${hargaBarang}\nstatus= ${status}`)
 
