@@ -15,7 +15,7 @@ for (let i = 0; i <nilai.length; i++) {
 
            
            console.log(`
-            siswa $[i] = ${siswa[i]}
+            siswa ${i +1} = ${siswa[i]}
              nilai =${nilai[i]} 
              status = ${status}`);
             } 
