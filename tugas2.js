@@ -18,11 +18,11 @@ for (let i = 0; i <nilai.length; i++) {
             siswa $[i] = ${siswa[i]}
              nilai =${nilai[i]} 
              status = ${status}`);
-             console.log(`
-                jumlah yang lulus = ${jumlahLulus}
-                jumlah tidak lulus = ${jumlahTidakLulus}
-                          
-            `)
-        } 
+            } 
+            console.log(`
+               jumlah yang lulus = ${jumlahLulus}
+               jumlah tidak lulus = ${jumlahTidakLulus}
+                         
+           `)
     
    
