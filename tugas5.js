@@ -11,7 +11,7 @@ let siswaHadir= 0;
 let siswatidak= 0;
 
 for (let i = 0; i <hadir.length; i++) {
-     if (hadir[i] >= true){
+     if (hadir[i] === true){
                status="hadir "
                siswaHadir++;
            } else {
