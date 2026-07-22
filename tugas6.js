@@ -8,7 +8,5 @@ for (let i = 0; i <umur.length; i++) {
                status="tidak bisa masuk"
            }
 
-           console.log(`
-            nama = ${umur[i]} 
-             ${status}`)
+           console.log(`umur = ${umur[i]}  ${status}`)
         }
