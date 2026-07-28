@@ -22,7 +22,4 @@ for (let i = 0; i <nilai.length; i++) {
             console.log(`
                jumlah yang lulus = ${jumlahLulus}
                jumlah tidak lulus = ${jumlahTidakLulus}
-                         
-           `)
-    
-   
+            `)
